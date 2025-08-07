@@ -1,4 +1,4 @@
-# 🧠 RAG Chatbot: Revolutionizing Document Interaction
+# 🧠 QueryWise RAG Chatbot: Revolutionizing Document Interaction
 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
