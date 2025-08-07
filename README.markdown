@@ -37,7 +37,7 @@ Welcome to the **RAG Chatbot**, a state-of-the-art application that combines Ret
 
 Retrieval-Augmented Generation (RAG) is an advanced technique that enhances large language models (LLMs) by integrating external knowledge retrieval. Unlike traditional LLMs, which rely solely on pre-trained, static knowledge (frozen in time), RAG combines the parametric knowledge of an LLM with a non-parametric, updatable source like a vector database. This hybrid approach ensures responses are both contextually rich and dynamically updated.
 
-![RAG vs Traditional LLM](rag memo.png)
+![RAG vs Traditional LLM](ragmemo.png)
 _Left: Traditional LLM with frozen knowledge. Right: RAG with dynamic vector database integration._
 
 ---
@@ -46,7 +46,7 @@ _Left: Traditional LLM with frozen knowledge. Right: RAG with dynamic vector dat
 
 RAG operates through a seamless pipeline visualized below:
 
-![RAG Workflow](rag flow.png)
+![RAG Workflow](ragflow.png)
 
 1. **Document Loader**: Imports documents from various sources (e.g., web, uploads).
 2. **Text Splitter**: Breaks documents into manageable chunks.
